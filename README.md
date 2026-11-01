@@ -77,6 +77,12 @@ the result somewhere else. The untouched 1.0.1.3 exe and the disc's own 1.0.1.4 
 
 ## Play on Windows
 
+**On Windows we'd suggest [SimCopterX](https://krimsky.net/patchers/scx.html) itself instead of this
+kit.** Its launcher patches your installed game and gives you more resolution options and a windowed
+mode; this kit is laid out for the Steam Deck's screen (1280x800, with 1280x720, 1024x768 and
+640x480 as the alternatives). The kit's folder does run on Windows too, if you'd like the same set-up
+on both:
+
 Run `game/SimCopter.exe`. An Xbox pad flies with its sticks and triggers; the game itself reads no
 pad buttons, so use the keyboard for the rest (below), or put the keys on the pad with Steam's
 controller settings or your pad's software, as on the Deck.
