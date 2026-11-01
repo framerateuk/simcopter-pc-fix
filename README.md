@@ -140,8 +140,11 @@ Tested on the Steam Deck (Proton 9.0) and on Windows 11.
 
 - **Maxis** made SimCopter (Will Wright's helicopter game in SimCity 2000 cities) and its v1.02
   patch; **EA** published the Classics disc. Please own the game: this kit needs your disc.
-- **Aleksander "alekasm" Krimsky**: SimCopterX, the patcher whose fixes (no CD, the high-resolution
-  layout, the crash and damage fixes) this kit redoes byte for byte from its open source.
+- **Aleksander "alekasm" Krimsky**: [SimCopterX](https://krimsky.net/patchers/scx.html), the
+  open-source patcher for modern Windows. Most of this kit's exe fixes (no CD, the high-resolution
+  layout, the palette, the crash and damage fixes) are ported from its source, instruction for
+  instruction; `patch_exe.py` and `caves.s` mark each one and the few places that differ. If you're
+  on Windows and just want the game fixed, SimCopterX itself is the place to start.
 - **FunkyFr3sh**: cnc-ddraw.
 
 ## License
